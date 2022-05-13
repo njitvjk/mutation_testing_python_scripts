@@ -1,3 +1,3 @@
-# muatation testing 
+# mutation testing 
 
-folders have the python experiment scipts and its output
+folders have the python experiment scripts and its output
