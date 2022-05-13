@@ -1,0 +1,11 @@
+Minimal Test Suite by Subsumption:
+Set 1(size=6):t8,t5,t011,t1,t010,t9
+Set 2(size=6):t011,t8,t9,t4,t1,t010
+Set 3(size=6):t5,t011,t010,t8,t013,t1
+Set 4(size=6):t4,t9,t8,t010,t011,t1
+Set 5(size=6):t013,t4,t9,t8,t1,t011
+Set 6(size=6):t1,t010,t5,t013,t011,t9
+Set 7(size=6):t5,t9,t013,t1,t011,t8
+Set 8(size=6):t9,t4,t8,t013,t011,t1
+Set 9(size=6):t9,t8,t4,t010,t011,t013
+Set 10(size=6):t8,t4,t1,t010,t013,t011

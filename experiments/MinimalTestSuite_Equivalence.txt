@@ -1,0 +1,11 @@
+Minimal Test Suite by Equivalence:
+Set 1(size=7):t5,t013,t9,t010,t011,t8,t1
+Set 2(size=7):t8,t5,t013,t010,t9,t011,t1
+Set 3(size=7):t5,t013,t011,t010,t9,t8,t1
+Set 4(size=7):t5,t013,t8,t9,t010,t011,t1
+Set 5(size=7):t5,t013,t011,t8,t9,t1,t010
+Set 6(size=7):t8,t013,t5,t1,t9,t011,t010
+Set 7(size=7):t8,t5,t013,t9,t1,t010,t011
+Set 8(size=7):t5,t013,t8,t9,t1,t010,t011
+Set 9(size=7):t5,t013,t011,t1,t9,t010,t8
+Set 10(size=7):t8,t4,t013,t9,t1,t010,t011

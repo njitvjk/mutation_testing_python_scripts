@@ -1,0 +1,15 @@
+t1,(-7)
+t2,-1
+t3,-1
+t4,-1
+t5,-1
+t014,IO.Exception
+t6,END
+t7,RETURN
+t8,LET X = 3
+t015,IO.Exception
+t9,INPUT A, B, C
+t010,GOTO 400
+t011,IF X = Y THEN END
+t012,PRINT "The meaning of life is ", 42, "."
+t013,10 PRINT "Hello, world!"

@@ -1,0 +1,63 @@
+minimal set by subsumption:
+m4, m19
+
+
+Indistinguishable Classes:
+Class 1: m1, m8, m10
+Class 2: m2, m3, m5
+Class 3: m4, 
+Class 4: m6, 
+Class 5: m7, 
+Class 6: m9, 
+Class 7: m11, m12
+Class 8: m13, 
+Class 9: m14, 
+Class 10: m15, m20
+Class 11: m16, m17, m18
+Class 12: m19, 
+
+
+
+Subsumption:
+m1 --> m15
+m2 --> m1
+m2 --> m7
+m2 --> m9
+m2 --> m15
+m4 --> m1
+m4 --> m2
+m4 --> m7
+m4 --> m9
+m4 --> m11
+m4 --> m13
+m4 --> m15
+m6 --> m1
+m6 --> m7
+m6 --> m9
+m6 --> m15
+m7 --> m1
+m7 --> m9
+m7 --> m15
+m9 --> m15
+m11 --> m1
+m11 --> m13
+m11 --> m15
+m13 --> m15
+m14 --> m9
+m14 --> m15
+m16 --> m1
+m16 --> m6
+m16 --> m7
+m16 --> m9
+m16 --> m14
+m16 --> m15
+m19 --> m1
+m19 --> m2
+m19 --> m6
+m19 --> m7
+m19 --> m9
+m19 --> m11
+m19 --> m13
+m19 --> m14
+m19 --> m15
+m19 --> m16

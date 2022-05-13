@@ -1,0 +1,31 @@
+Killed Mutants by Minimal Test Suites by Delta2:
+
+Killed Mutants using set 1(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 2(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 3(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 4(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 5(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 6(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 7(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 8(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 9(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20
+
+Killed Mutants using set 10(killed mutants=20):
+m1,m2,m3,m4,m5,m6,m7,m8,m9,m10,m11,m12,m13,m14,m15,m16,m17,m18,m19,m20

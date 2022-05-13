@@ -1,0 +1,21 @@
+minimal set by equivalence:
+m1, m2, m4, m6, m7, m8, m9, m11, m13, m14, m15, m16, m17, m18, m19, m20
+
+
+Equivalent Classes:
+Class 1: m1, m10
+Class 2: m2, m3, m5
+Class 3: m4, 
+Class 4: m6, 
+Class 5: m7, 
+Class 6: m8, 
+Class 7: m9, 
+Class 8: m11, m12
+Class 9: m13, 
+Class 10: m14, 
+Class 11: m15, 
+Class 12: m16, 
+Class 13: m17, 
+Class 14: m18, 
+Class 15: m19, 
+Class 16: m20, 

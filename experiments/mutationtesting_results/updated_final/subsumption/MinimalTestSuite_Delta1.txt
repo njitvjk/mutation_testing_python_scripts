@@ -1,0 +1,11 @@
+Minimal Test Suite by Delta1:
+Set 1(size=2):Test002,Test011
+Set 2(size=2):Test002,Test016
+Set 3(size=2):Test002,Test018
+Set 4(size=2):Test002,Test017
+Set 5(size=2):Test002,Test010
+Set 6(size=2):Test002,Test019
+Set 7(size=2):Test002,Test013
+Set 8(size=2):Test002,Test014
+Set 9(size=2):Test002,Test012
+Set 10(size=2):Test002,Test015

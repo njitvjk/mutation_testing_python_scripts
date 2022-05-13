@@ -1,0 +1,2 @@
+Test002,Exception :AssertionError
+Test010,object size is :1

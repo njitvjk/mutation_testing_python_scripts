@@ -1,0 +1,36 @@
+Test029,-1
+Test0032,-1
+Test003,object size is :0
+Test006,object size is :1
+Test013,-1
+Test005,-1
+Test004,-1
+Test030,-1
+Test009,object size is :1
+Test001,java.lang.OutofMemoryError
+Test002,java.lang.OutofMemoryError
+Test007,java.lang.ClassCastException
+Test008,java.lang.IndexOutOfBoundsException
+Test009,java.lang.ClassCastException
+Test010,java.lang.ClassCastException
+Test011,java.lang.ClassCastException
+Test012,java.lang.ClassCastException
+Test014,java.lang.ClassCastException
+Test015,java.lang.ClassCastException
+Test016,java.lang.ClassCastException
+Test017,java.lang.ClassCastException
+Test018,java.lang.ClassCastException
+Test019,java.lang.ClassCastException
+Test020,java.lang.ClassCastException
+Test021,java.lang.ClassCastException
+Test022,java.lang.ClassCastException
+Test023,java.lang.ClassCastException
+Test024,java.lang.ClassCastException
+Test025,java.lang.ClassCastException
+Test026,java.lang.ClassCastException
+Test027,java.lang.ClassCastException
+Test028,java.lang.ClassCastException
+Test031,java.lang.OutofMemoryError
+
+
+

@@ -1,0 +1,3 @@
+Minimal Test Suite by Delta0:
+Set 1(size=7):t010,t011,t013,t1,t5,t8,t9
+Set 2(size=7):t010,t011,t013,t1,t4,t8,t9

@@ -1,0 +1,15 @@
+t013,10 PRINT "Hello, world!"
+t1,IO.Exception
+t2,IO.Exception
+t3,IO.Exception
+t4,IO.Exception
+t5,-1
+t014,IO.Exception
+t6,END
+t7,RETURN
+t8,IO.Exception
+t015,IO.Exception
+t9,INPUT A, B, C
+t010,GOTO 400
+t011,IO.Exception
+t012,IO.Exception

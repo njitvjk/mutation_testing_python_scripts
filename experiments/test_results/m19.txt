@@ -1,0 +1,15 @@
+t013,IO.Exception
+t1,(-7)
+t2,(3 + 4)
+t3,((3 + 4) + 5)
+t4,(3 + (4 * 5))
+t5,IO.Exception
+t014,IO.Exception
+t6,END
+t7,RETURN
+t8,IO.Exception
+t015,IO.Exception
+t9,-1
+t010,GOTO 400
+t011,IF X = Y THEN END
+t012,-1
